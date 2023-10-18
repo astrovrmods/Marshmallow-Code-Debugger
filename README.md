@@ -1,2 +1,2 @@
 # Marshmallow-Code-Debugger
-Code Generator for windows, mainly used to fix/debug my other projects.
+If one of my projects dont work (Mainly MonkeModDebugger and Tamarin World,) you are most likely not using marshmallow. Marshmallow is a code generator used for my github projects, mainly to make using them way easier. If you want to change code and stuff to make my projects work, get your hands dirty and do it. If you have no experience with coding or your too lazy, use marshmallow. MonkeModDebugger NEEDS marshmallow to function, not even a good high quality coder can make it function without it. Tamarin World and my other projects dont need it, but its recommended. 
